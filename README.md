@@ -1,1 +1,3 @@
-# Various Python visual Simulations related with Physics, Mathematics & Computer Science topics
+# PySims
+
+**Python Visual Simulations** related with topics of *Physics, Mathematics & Computer Science*
